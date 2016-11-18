@@ -1,476 +1,387 @@
 body {
-	background-color:#cccccc !important;
-    font-family: 'Roboto', sans-serif !important;
+background-color:#cccccc !important;
+font-family: 'Roboto', sans-serif !important;
 }
-
 body#blk {
-    background-color:#000 !important;
+background-color:#000 !important;
 }
-
 body#blk header {
-    background: url("../images/simplelogo-flower-blk.png") no-repeat top center;
-    background-color: #000;
-    -webkit-transition: all 0.4s ease;
-    transition: all 0.4s ease;
-    height:10em;
-
+background: url("../images/simplelogo-flower-blk.png") no-repeat top center;
+background-color: #000;
+-webkit-transition: all 0.4s ease;
+transition: all 0.4s ease;
+height:10em;
 }
-
 body#blk header nav ul {
-   margin-top:3em;
+margin-top:3em;
 }
-
 body#blk header nav ul li.mid {
-    width: 10px;
-    background-image: url(../images/pattern3.png);
-    background-repeat: repeat;
-    background-color: #5C5C5C;
-    height: 1.8em;
+width: 10px;
+background-image: url(../images/pattern3.png);
+background-repeat: repeat;
+background-color: #5C5C5C;
+height: 1.8em;
 }
-
 body#blk header nav ul li {
-    display: inline-block;
-    height: auto;
-    background-image: url(../images/pattern3.png);
-    background-repeat: repeat;
-    background-color: #5C5C5C;
-    width: 16%;
-    margin: 0 .2em;
+display: inline-block;
+height: auto;
+background-image: url(../images/pattern3.png);
+background-repeat: repeat;
+background-color: #5C5C5C;
+width: 16%;
+margin: 0 .2em;
 }
-
 body#blk header nav ul li a:hover {
-    color:#fff;
-    text-decoration: none; 
-    }
-
-body#blk .title-head {
-    width: 100%;
-    padding: 10px 0;
-    background-image: url(../images/pattern3.png);
-    background-repeat: repeat;
-    background-color: #5d5d5d;
-    margin: 0 auto;
-    display: block;
-    box-sizing: border-box;
-    text-transform: uppercase;
+color:#fff;
+text-decoration: none;
 }
-
- body#blk .title-head h2 {
-    color: #868613;
-    font-size: 1.4em;
-    margin: .4em auto 0;
-    text-align: center;
-    line-height: 1em;
- }
-
-
+body#blk .title-head {
+width: 100%;
+padding: 10px 0;
+background-image: url(../images/pattern3.png);
+background-repeat: repeat;
+background-color: #5d5d5d;
+margin: 0 auto;
+display: block;
+box-sizing: border-box;
+text-transform: uppercase;
+}
+body#blk .title-head h2 {
+color: #868613;
+font-size: 1.4em;
+margin: .4em auto 0;
+text-align: center;
+line-height: 1em;
+}
 h1 {
-	font-family: 'Open Sans', sans-serif;
-    color:#9ba315 !important;
+font-family: 'Open Sans', sans-serif;
+color:#9ba315 !important;
 }
 h4 {
-    font-size: .9em !important;
-    text-transform: uppercase;
-
+font-size: .9em !important;
+text-transform: uppercase;
 }
-
-
 header {
-	background: url("../images/simplelogo-flower.png") no-repeat top center;
-	background-color: #ccc;
-	-webkit-transition: all 0.4s ease;
-    transition: all 0.4s ease;
-    height: auto;
-
+background: url("../images/simplelogo-flower.png") no-repeat top center;
+background-color: #ccc;
+-webkit-transition: all 0.4s ease;
+transition: all 0.4s ease;
+height: auto;
 }
-
 header.sticky {
-            position: fixed;
-            line-height: 48px;
-            height: 80px; 
-            width: 100%;
-            text-align: left;
-            z-index: 1000;
-            background: url("../images/simplelogo-flower.png") no-repeat top center;
-            background-color: #ccc;
-        }
-
-
+position: fixed;
+line-height: 48px;
+height: 80px;
+width: 100%;
+text-align: left;
+z-index: 1000;
+background: url("../images/simplelogo-flower.png") no-repeat top center;
+background-color: #ccc;
+}
 .logo.sticky {
-	display: none;
+display: none;
 }
-
 .title { border-top: 1px solid #9ba315; position: relative; top: 20px; margin-bottom: 30px; }
-
-
-.title span {     
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.8em;
-    text-align: center;
-    padding: 2px 5px;
-    background: #9ba315;
-    width: 300px;
-    margin: 0 auto;
-    display: block;
-    position: relative;
-    top: -.8em;
-    font-family: 'Raleway', sans-serif;
+.title span {
+color: #fff;
+text-decoration: none;
+font-size: 1.8em;
+text-align: center;
+padding: 2px 5px;
+background: #9ba315;
+width: 300px;
+margin: 0 auto;
+display: block;
+position: relative;
+top: -.8em;
+font-family: 'Raleway', sans-serif;
 }
-
 .title-head {
-    width: 100%;
-    padding: 6px 0;
-    background-image: url(../images/pattern.png);
-    background-repeat: repeat;
-    background-color: #cccccc;
-    margin: 0 auto;
-    display: block;
-} 
-
+width: 100%;
+padding: 6px 0;
+background-image: url(../images/pattern.png);
+background-repeat: repeat;
+background-color: #cccccc;
+margin: 0 auto;
+display: block;
+}
 .title-head h2 {
-    color: #868613;
-    font-size: 1.4em;
-    margin: .4em auto 0;
-    text-align: center;
-    line-height: 1em;
- }
-
+color: #868613;
+font-size: 1.4em;
+margin: .4em auto 0;
+text-align: center;
+line-height: 1em;
+}
 header nav ul {
-    width: 100%;
-    height: 3.6em;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 16px;
-    margin: 1em auto 0em;
+width: 100%;
+height: 3.6em;
+text-align: center;
+text-transform: uppercase;
+font-size: 16px;
+margin: 1em auto 0em;
 }
-
-
 header nav ul li.mid {
-    width: 10px;
-    background-color: #f6f5f5;
-    height: 1.8em;
+width: 10px;
+background-color: #f6f5f5;
+height: 1.8em;
 }
-
 header nav ul li {
-    display: inline-block;
-    height: auto;
-    background-color: #efefef;
-    width: 16%;
-    margin: 0 .2em;
+display: inline-block;
+height: auto;
+background-color: #efefef;
+width: 16%;
+margin: 0 .2em;
 }
-
 header nav ul li a {
-    display: block;
-    text-decoration: none;
-    color: #868613;
-    padding: .2em 0;
+display: block;
+text-decoration: none;
+color: #868613;
+padding: .2em 0;
 }
-
 header nav ul li a:hover {
-    color:#337ab7;
-    text-decoration: none; 
+color:#337ab7;
+text-decoration: none;
 }
-
 .logo {
-	display: inline-block;
-    padding: 1em 0 0em 12em;
+display: inline-block;
+padding: 1em 0 0em 12em;
 }
-
 .fixed {
-    position:fixed;
-    top:0;
+position:fixed;
+top:0;
 }
-
 /*.menu {
-    height:2em;
-    padding:.5em;
-    width:100%;
+height:2em;
+padding:.5em;
+width:100%;
 }*/
-
-
 #about {
-	background-color:#fff;
-	padding-top: 30px;
+background-color:#fff;
+padding-top: 30px;
 }
-
 #client {
-    background-color:#fff;
-    padding-top: 30px;
+background-color:#fff;
+padding-top: 30px;
 }
-
 td.client-row {
-       width: 50%;
+width: 50%;
 border-left:1px solid #ededed;
 border-right:1px solid #ededed;
 }
 td.client-row:hover {
-    background-color:#dddddd;
+background-color:#dddddd;
 border-left:1px solid #dfdfdf;
 border-right:1px solid #dfdfdf;
-    
+
 }
 .client-list {
-    width: 100%;
+width: 100%;
 }
 .client-list tr td {
-    width: 50%;
+width: 50%;
 }
-
 .client-list tr td a {
-    text-transform: uppercase;
-    font-size:.8em;
-    padding: 3px 4px;
-    background: #fff;
-    border:1px solid #dcdcdc;
-    color:#9ba315;
-
+text-transform: uppercase;
+font-size:.8em;
+padding: 3px 4px;
+background: #fff;
+border:1px solid #dcdcdc;
+color:#9ba315;
 }
-
 .client-list tr td a:hover {
-    border:1px solid #9ba315;
-    text-decoration: none;
-    color:#e8b8bd;
+border:1px solid #9ba315;
+text-decoration: none;
+color:#e8b8bd;
 }
-
-
 #work {
-    padding-top: 30px;
-	background: url("../images/pattern.png") repeat top center;
+padding-top: 30px;
+background: url("../images/pattern.png") repeat top center;
 }
-
 .container {
-	padding: 0 40px 0;
+padding: 0 40px 0;
 }
-
 #skills {
-    background: url("../images/pattern.png") repeat top center;
-
+background: url("../images/pattern.png") repeat top center;
 }
-
 #skills .dark {
-    padding-top: 30px;
+padding-top: 30px;
 }
-
 #skills ul {
-    padding: 2px 2px;
-    height: auto;
-    float: left;
-    width: 90%;
-    padding-left: 30px;
+padding: 2px 2px;
+height: auto;
+float: left;
+width: 90%;
+padding-left: 30px;
 }
-
 #skills ul li {
-    padding: 3px 0px;
-    height: auto;
-    list-style: none;
-    width: 100%;
-    line-height: 13px;
+padding: 3px 0px;
+height: auto;
+list-style: none;
+width: 100%;
+line-height: 13px;
 }
-
 #skills ul li h4 {
-    line-height: 18px;
-    font-size: 16px;
-    padding: 0px;
-    margin: 0px;
-    color: #868613;
+line-height: 18px;
+font-size: 16px;
+padding: 0px;
+margin: 0px;
+color: #868613;
 }
-
 #skills ul li em {
-    font-size: .8em;
-    color: #09F;
-    font-style: italic;
+font-size: .8em;
+color: #09F;
+font-style: italic;
 }
-
 #skills .dark {
-    background-color:#efefef;
+background-color:#efefef;
 }
-
 #connect {
-    background-color:#fff;
-    padding-top: 30px;
+background-color:#fff;
+padding-top: 30px;
 }
-
-
 #connect h5 {
-    margin: 0 auto;
-    padding: 0;
-    font-size: 1.4em;
-    color: #337ab7;
-    font-family: 'Roboto', sans-serif;
-    text-transform: uppercase;
+margin: 0 auto;
+padding: 0;
+font-size: 1.4em;
+color: #337ab7;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
 }
-
 #connect p {
-    padding-top: 1.2em;
+padding-top: 1.2em;
 }
-
 #connect .icons {
-    display: block;
-    padding-top: 1.2em;
+display: block;
+padding-top: 1.2em;
 }
-
 #connect .icons a.circle {
-    margin: 0 .4em 0 0;
-    display: inline-block;
-    height:38px; 
+margin: 0 .4em 0 0;
+display: inline-block;
+height:38px;
 }
-
 #connect .icons a.git {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: 0 0;
-    height:38px;
-    width:38px; 
+background: url("../images/social-icons.png") no-repeat;
+background-position: 0 0;
+height:38px;
+width:38px;
 }
 #connect .icons a.git:hover {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: 0 -38px;
+background: url("../images/social-icons.png") no-repeat;
+background-position: 0 -38px;
 }
-
 #connect .icons a.code {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -38px 0;
-    height:38px;
-    width:38px; 
+background: url("../images/social-icons.png") no-repeat;
+background-position: -38px 0;
+height:38px;
+width:38px;
 }
 #connect .icons a.code:hover {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -38px -38px;
+background: url("../images/social-icons.png") no-repeat;
+background-position: -38px -38px;
 }
-
 #connect .icons a.fiddle {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -76px 0;
-    height:38px;
-    width:38px; 
+background: url("../images/social-icons.png") no-repeat;
+background-position: -76px 0;
+height:38px;
+width:38px;
 }
 #connect .icons a.fiddle:hover {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -76px -38px;
+background: url("../images/social-icons.png") no-repeat;
+background-position: -76px -38px;
 }
-
 #connect .icons a.linked {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -114px 0;
-    height:38px;
-    width:38px; 
+background: url("../images/social-icons.png") no-repeat;
+background-position: -114px 0;
+height:38px;
+width:38px;
 }
 #connect .icons a.linked:hover {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -114px -38px;
+background: url("../images/social-icons.png") no-repeat;
+background-position: -114px -38px;
 }
-
 #connect .icons a.insta {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -152px 0;
-    height:38px;
-    width:38px; 
+background: url("../images/social-icons.png") no-repeat;
+background-position: -152px 0;
+height:38px;
+width:38px;
 }
 #connect .icons a.insta:hover {
-    background: url("../images/social-icons.png") no-repeat;
-    background-position: -152px -38px;
+background: url("../images/social-icons.png") no-repeat;
+background-position: -152px -38px;
 }
-
 .fa {
-    margin: 0 .6em !important;
-    color: #9ba315;
-    font-size:18px !important;
+margin: 0 .6em !important;
+color: #9ba315;
+font-size:18px !important;
 }
-
-
 a.button {
-    border: 3px solid #dcdcdc;
-    color: #9ba315;
-    background: #fff;
-    padding: 3px 6px;
-    text-transform: uppercase !important;
-    font-size: 1.1em;
+border: 3px solid #dcdcdc;
+color: #9ba315;
+background: #fff;
+padding: 3px 6px;
+text-transform: uppercase !important;
+font-size: 1.1em;
 }
-
 a.button:hover {
-    border: 3px solid #9ba315;
-    color:#e8b8bd;
-    text-decoration: none;
-    background: #fff;
+border: 3px solid #9ba315;
+color:#e8b8bd;
+text-decoration: none;
+background: #fff;
 }
-
 #footer {
-    height: 60px;
-    padding: 0;
-    margin: 0;
-    background: url("../images/simplelogo-flower-btm.png") no-repeat bottom center;
+height: 60px;
+padding: 0;
+margin: 0;
+background: url("../images/simplelogo-flower-btm.png") no-repeat bottom center;
 }
-
 #photography {
-    background-color:#000;
-    padding-top: 30px;
+background-color:#000;
+padding-top: 30px;
 }
-
-
 #porfolio-nav {
-    padding:0 !important;
-    margin:0 auto !important;
-    text-align: center !important;
-
+padding:0 !important;
+margin:0 auto !important;
+text-align: center !important;
 }
-
 @media (max-width: 992px) {
-
-        body#blk header {
-            height:6em;
-        }
-
-        body#blk header nav ul {
-           margin-top:1em;
-        }
+body#blk header {
+height:6em;
+}
+body#blk header nav ul {
+margin-top:1em;
+}
+}
+@media (max-width: 640px) {
+body#blk header {
+height:auto;
 
 }
-
-
-
-@media (max-width: 640px) {
-
-        body#blk header {
-            height:auto;
-             
-        }
-        body header {
-            height: auto;
-            line-height: 28px;
-            line-height: inherit;
-            width: 100%;
-        }
-        body header.sticky {
-            height:auto;
-            line-height: 28px;
-            position: fixed;
-            z-index: 1000;
-        }
-
-        body header .logo {
-            display: none;
-        }
-
-        body#blk header nav ul, body header nav ul {
-            height: auto;
-            padding: 1em 0;
-        }
-
-        body#blk header nav ul li, body header nav ul li {
-            display: block;
-            height: auto;
-            width: auto;
-            margin: 0 .2em;
-        }
-
-
-        body#blk header nav ul li.mid, body header nav ul li.mid {
-            display:none;
-        }
-
-
-
-
-
-
+body header {
+height: auto;
+line-height: 28px;
+line-height: inherit;
+width: 100%;
+}
+body header.sticky {
+height:auto;
+line-height: 28px;
+position: fixed;
+z-index: 1000;
+}
+body header .logo {
+display: none;
+}
+body#blk header nav ul, body header nav ul {
+height: auto;
+padding: 1em 0;
+}
+body#blk header nav ul li, body header nav ul li {
+display: block;
+height: auto;
+width: auto;
+margin: 0 .2em;
+}
+body#blk header nav ul li.mid, body header nav ul li.mid {
+display:none;
+}
 }
