@@ -1,3 +1,9 @@
+#google_translate_element {
+		position: absolute;
+	    top: 0;
+	    left: 0;
+	}
+
 body {
 background-color:#cccccc !important;
 font-family: 'Roboto', sans-serif !important;
