@@ -19,7 +19,7 @@
       [
       { 'title':'Adaptaspace', 'url' : 'http://www.adaptaspace.com/' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -39,7 +39,7 @@
       { 'title':'Veilance', 'url':'http://veilance.arcteryx.com/Home.aspx?language=EN'},
       { 'title':'Leaf', 'url' : 'http://leaf.arcteryx.com/' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['E-Commerce, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -56,7 +56,7 @@
       { 'title':'Mandalay', 'url' : 'http://www.mandalay.com' },
       { 'title':'Bao Dimsum', 'url':'http://www.baodimsum.com/'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -75,7 +75,7 @@
       { 'title':'Bioshock Infinite', 'url' : 'http://www.bioshockinfinite.com/home' },
       { 'title':'How She Does It', 'url':'http://chohoh.com/cim/IDK/'}
       ],
-      'tags'          : ['WEBWORK, DRUPAL']
+      'tags'          : ['JQuery, Drupal, HTML5']
       },
       {
       'icon_list'   :
@@ -91,7 +91,7 @@
       [
       { 'title':'Sexy Ladies International', 'url' : 'http://www.g4tv.com/sexyladies/' },
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -108,7 +108,7 @@
       { 'title':'TV Guide', 'url' : 'http://chohoh.com/tvguide/'},
       { 'title':'FX/Dish', 'url':'http://chohoh.com/fxdish/'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -124,7 +124,7 @@
       [
       { 'title':'E Online', 'url' : 'http://www.eonline.com/' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['CMS, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -140,7 +140,7 @@
       [
       { 'title':'Eric Reuss MD', 'url' : 'http://www.ericreussmd.com/' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -156,7 +156,7 @@
       [
       { 'title':'FreeSpirit Productions', 'url' : 'http://freespiritproductions.com/' }
       ],
-      'tags'          : ['WEBWORK, WORDPRESS']
+      'tags'          : ['Wordpress, Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -172,7 +172,7 @@
       [
       { 'title':'Intel', 'url' : 'http://www.intel.com' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['CMS']
       },
       {
       'icon_list'   :
@@ -188,7 +188,7 @@
       [
       { 'title':'Jillian Love', 'url' : 'http://www.jillianlove.com/' }
       ],
-      'tags'          : ['WEBWORK, WORDPRESS']
+      'tags'          : ['Wordpress, Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -204,7 +204,7 @@
       [
       { 'title':'Kabbalah Center', 'url' : 'https://www.kabbalah.com/' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['CMS, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -220,7 +220,7 @@
       [
       { 'title':'Mike Bruce Films', 'url' : 'http://www.mikebrucefilms.com/news/' }
       ],
-      'tags'          : ['WEBWORK, WORDPRESS']
+      'tags'          : ['Wordpress, Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -236,7 +236,7 @@
       [
       { 'title':'My Homeopathic Center', 'url' : 'http://myhomeopathiccenter.com/' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -252,7 +252,7 @@
       [
       { 'title':'The Neural Clinic', 'url' : 'theneuralclinic.com/' }
       ],
-      'tags'          : ['WEBWORK, WORDPRESS']
+      'tags'          : ['Wordpress, Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -269,7 +269,7 @@
       { 'title':'Oregon Humanities', 'url' : 'http://oregonhumanities.org/' },
       { 'title':'Portland Center Stage', 'url':'https://www.pcs.org/'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['Design, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -285,7 +285,7 @@
       [
       { 'title':'Refinery Interactive', 'url' : 'http://www.therefinerycreative.com/#!/interactive' }
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -301,7 +301,7 @@
       [
       { 'title':'Mazda USA', 'url':'https://www.mazdausa.com/'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -318,7 +318,7 @@
       { 'title':'Sony Interactive', 'url' : 'http://tinyurl.com/zlz3rqa' },
       { 'title':'Greener World', 'url':'http://www.sonypicturesgreenerworld.com/'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['CMS, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -334,7 +334,7 @@
       [
       { 'title':'Sunbowl Systems', 'url' : 'https://www.sunbowl.ca/' }
       ],
-      'tags'          : ['WEBWORK, WORDPRESS']
+      'tags'          : ['Wordpress, E-Commerce, JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -350,7 +350,7 @@
       [
       { 'title':'Oscars', 'url':'http://www.oscars.org/'}
       ],
-      'tags'          : ['WEBWORK, DRUPAL']
+      'tags'          : ['JQuery, Drupal, HTML5']
       },
       {
       'icon_list'   :
@@ -366,7 +366,7 @@
       [
       { 'title':'Food IPC', 'url':'http://chohoh.com/foodipc/'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['JQuery, HTML5']
       },
       {
       'icon_list'   :
@@ -384,7 +384,7 @@
       { 'title':'South Coast Plaza', 'url':'http://www.southcoastplaza.com/'},
       { 'title':'The Program', 'url':'http://tinyurl.com/jh33hp7'}
       ],
-      'tags'          : ['WEBWORK']
+      'tags'          : ['CMS, E-Commerce, JQuery, HTML5']
       }
       ]
       });

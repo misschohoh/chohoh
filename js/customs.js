@@ -9,6 +9,8 @@ $('header').removeClass("sticky")
 $('.logo').removeClass("sticky")
 }
 });
+
+
 /* og-expander */
 $('body').click(function(evt){
 if(evt.target.class== "og-expander")

@@ -178,7 +178,7 @@ $(function() {
             hoverDirection: true,
             hoverDelay: 0,
             hoverInverse: false,
-            expandingHeight: 500,
+            expandingHeight:200,
             expandingSpeed: 300,
             callback: function() {}
         }, config);
@@ -390,7 +390,7 @@ $(function() {
             settings = {
                 minHeight : config.expandingHeight,
                 speed : config.expandingSpeed,
-                easing : 'ease'
+                easing : 'easeInExpo'
             };
 
 
@@ -471,7 +471,7 @@ $(function() {
         }
 
         function showPreview( $item ) {
-            hidePreview();
+            //hidePreview();
 
             // console.log('--show--');
 
