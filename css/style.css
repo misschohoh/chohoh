@@ -6,12 +6,47 @@ font-family: 'Roboto', sans-serif !important;
 }
 
 p {
-    font-size: 1.24em; 
+    font-size: 1.24em;
+    text-align: justify;
+}
+
+.pull-left a {
+    padding: .4em 0;
+    display: block;
 }
 .checkout {
     left: 30px;
     position: relative;
 }
+
+.padd-bottom {
+    padding-bottom: .9em;
+}
+
+.mySite {
+    position: relative;
+    margin-bottom: -7px;
+    display: block;
+    border-top: 1px dotted #9ba315;
+}
+
+.mySite a {
+        color: #9ba315;
+    text-decoration: none;
+    font-size: .8em;
+    text-align: center;
+    padding: 0;
+    background: #ffffff;
+    width: 138px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    top: -.9em;
+    border: 1px solid #9ba315;
+    border-top: none;
+    border-bottom: none;
+}
+
 body#blk {
 background-color:#000 !important;
 }
@@ -170,17 +205,15 @@ width:100%;
 
 .intro-section {
     height: 100%;
-    padding-top: 86px;
+    padding-top: 110px;
     text-align: center;
     background: #707070;
     margin: 0 auto;
     overflow: hidden;
     border-bottom: 2px solid #337ab7;
+    background-size:100%;
 }
 
-.intro-section img {
-    width:auto;  
-}
 
 
 #about {
@@ -272,6 +305,7 @@ background-color:#efefef;
 background-color:#fff;
 padding-top: 30px;
 border-bottom: 2px solid #337ab7;
+text-align: center;
 }
 #connect h5 {
 margin: 0 auto;
@@ -282,7 +316,15 @@ font-family: 'Roboto', sans-serif;
 text-transform: uppercase;
 }
 #connect p {
-padding-top: 1.2em;
+    padding-top: 1.2em;
+    width: 70%;
+    margin: 0 auto;
+}
+#connect .prag {
+    padding: .5em;
+    width: 70%;
+    margin: 0 auto;
+    display: block;
 }
 #connect .icons {
 display: block;
@@ -349,12 +391,14 @@ color: #9ba315;
 font-size:18px !important;
 }
 a.button {
-border: 3px solid #dcdcdc;
-color: #9ba315;
-background: #fff;
-padding: 3px 6px;
-text-transform: uppercase !important;
-font-size: 1.1em;
+    border: 3px solid #dcdcdc;
+    color: #9ba315;
+    background: #fff;
+    padding: 3px 6px 1px 6px;
+    text-transform: uppercase !important;
+    font-size: 1.1em;
+    margin-bottom: 9px;
+    display: inline-flex;
 }
 a.button:hover {
 border: 3px solid #9ba315;
@@ -502,11 +546,54 @@ nav#porfolio-nav {
     .intro-section {
     padding-top: 3.6em;
     }
+
+    .intro-section img {
+    width: 140%;
+    overflow: hidden;
+    position: relative;
+    left: -19%;
+    /* right: -50%; */
+}
+
+    .wagwep-container ul#portfolio-filter a, .client-list h4, .client-list tr td a {
+        font-size:.7em;
+    }
+    .client-list tr td {
+        width: 43%;
+    }
+    .client-list tr td:last-child {
+        width: 28%;
+    }
+
+    #connect p {
+        padding: 1.2em;
+        width: 80%;
+        margin: 0 auto;
+    }
+    #connect .prag {
+        width: 100%;
+    }
+
 }
 
 
 
 @media (max-width: 640px) {
+
+    p {
+        clear: both;
+    }
+
+    .og-grid li {
+        width: 100%;
+    }
+
+    .og-grid li > a,
+    .og-grid li > a img {
+        width: 90% !important;
+        margin: 0 auto;
+    }
+
     body#blk header {
     height:auto;
     }
@@ -564,4 +651,9 @@ nav#porfolio-nav {
     body#blk header nav ul li.mid {
     display:none;
     }
+}
+
+@media (max-width: 500px) {
+
+
 }
